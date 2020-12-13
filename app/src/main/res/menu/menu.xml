@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuHistory"
+        android:orderInCategory="1"
+        android:title="@string/history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuService"
+        android:orderInCategory="1"
+        android:title="Служба"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuBrowser"
+        android:orderInCategory="1"
+        android:title="Браузер"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuPhoto"
+        android:orderInCategory="1"
+        android:title="Фото"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuFile"
+        android:orderInCategory="1"
+        android:title="Файл"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuShowDatabase"
+        android:orderInCategory="1"
+        android:title="База данных"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuSharedPreference"
+        android:orderInCategory="1"
+        android:title="Настройки"
+        app:showAsAction="never" />
+</menu>

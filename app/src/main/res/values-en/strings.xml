@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratory work №6</string>
+    <string name="textView">Enter your Name and Surname</string>
+    <string name="textViewMain">Change</string>
+    <string name="textView1">Name:</string>
+    <string name="textView2">Surname:</string>
+    <string name="button">Change the fields</string>
+    <string name="buttonColor">Change the color</string>
+    <string name="buttonAccess">Result</string>
+    <string name="textView3">Number 1:</string>
+    <string name="textView4">Number 2:</string>
+    <string name="button4">Division</string>
+    <string name="button1">Addition</string>
+    <string name="button2">Subtraction</string>
+    <string name="button3">Multiplication</string>
+    <string name="button5">Scroll</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">This`s first fragment</string>
+    <string name="hello_second_fragment">This`s second fragment. Arg: %1$s</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_service">Activity Service</string>
+</resources>
